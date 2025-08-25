@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oh9BkZ6NO7U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lexi\\source\\repos\\SuezosEye\\SuezosEye.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lexi\\.nuget\\packages\\penet\\5.1.0\\penet.5.1.0.nupkg.sha512",
+    "C:\\Users\\Lexi\\.nuget\\packages\\penet.asn1\\2.0.1\\penet.asn1.2.0.1.nupkg.sha512",
+    "C:\\Users\\Lexi\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

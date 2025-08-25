@@ -1,0 +1,16 @@
+C:\Users\Lexi\source\repos\SuezosEye\bin\Debug\net8.0-windows\SuezosEye.exe
+C:\Users\Lexi\source\repos\SuezosEye\bin\Debug\net8.0-windows\SuezosEye.deps.json
+C:\Users\Lexi\source\repos\SuezosEye\bin\Debug\net8.0-windows\SuezosEye.runtimeconfig.json
+C:\Users\Lexi\source\repos\SuezosEye\bin\Debug\net8.0-windows\SuezosEye.dll
+C:\Users\Lexi\source\repos\SuezosEye\bin\Debug\net8.0-windows\SuezosEye.pdb
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\SuezosEye.Form1.resources
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\SuezosEye.csproj.GenerateResource.cache
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\SuezosEye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\SuezosEye.AssemblyInfoInputs.cache
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\SuezosEye.AssemblyInfo.cs
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\SuezosEye.csproj.CoreCompileInputs.cache
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\SuezosEye.dll
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\refint\SuezosEye.dll
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\SuezosEye.pdb
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\SuezosEye.genruntimeconfig.cache
+C:\Users\Lexi\source\repos\SuezosEye\obj\Debug\net8.0-windows\ref\SuezosEye.dll
